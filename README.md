@@ -3,7 +3,7 @@
 <img align="center" alt="LOGO" src="https://user-images.githubusercontent.com/93049899/186722978-072d848d-80db-4d20-b690-032d69088e13.jpg" />
   
   # About the app
-  A number game created with C#, with 3 levels! Easy, Medium and Hard. You can restar the came, create a new game and see the solution.
+  A number game created with C#, with 3 levels! Easy, Medium and Hard. You can restart the game, create a new game and see the solution.
 
 
   # Technologies
