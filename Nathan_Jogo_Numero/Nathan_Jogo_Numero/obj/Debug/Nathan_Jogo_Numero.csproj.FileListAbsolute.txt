@@ -1,0 +1,14 @@
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\bin\Debug\Nathan_Jogo_Numero.exe.config
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\bin\Debug\Nathan_Jogo_Numero.exe
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\bin\Debug\Nathan_Jogo_Numero.pdb
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\obj\Debug\Nathan_Jogo_Numero.csproj.AssemblyReference.cache
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\obj\Debug\Nathan_Jogo_Numero.Form1.resources
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\obj\Debug\Nathan_Jogo_Numero.Properties.Resources.resources
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\obj\Debug\Nathan_Jogo_Numero.csproj.GenerateResource.cache
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\obj\Debug\Nathan_Jogo_Numero.csproj.CoreCompileInputs.cache
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\obj\Debug\Nathan_Jogo_Numero.exe
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\obj\Debug\Nathan_Jogo_Numero.pdb
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\obj\Debug\Nathan_Jogo_Numero.Fácil.resources
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\obj\Debug\Nathan_Jogo_Numero.medio.resources
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\obj\Debug\Nathan_Jogo_Numero.dificil.resources
+D:\2ºAno\DS\3ºBimestre\Nathan_Jogo_Numero\Nathan_Jogo_Numero\obj\Debug\Nathan_Jogo_Numero.fim.resources
